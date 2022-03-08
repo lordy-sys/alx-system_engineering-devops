@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 #!/bin/bash
 tail -n +2 | sort | cut -f1 | uniq -c | sort -g -r | head -11 | tr -s " " | cut -d" " -f3
+=======
+#!/bin/bash
+tail -n +2 | sort | cut -f1 | uniq -c | sort -g -r | head -11 | tr -s " " | cut -d" " -f3
+>>>>>>> a72860c0783251f9f573d14b366ac1860e8231a6

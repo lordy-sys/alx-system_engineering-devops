@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 #!/bin/bash
 tr -d C | tr -d c
+=======
+#!/bin/bash
+tr -d C | tr -d c
+>>>>>>> a72860c0783251f9f573d14b366ac1860e8231a6
